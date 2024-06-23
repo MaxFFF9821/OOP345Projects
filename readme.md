@@ -34,16 +34,16 @@ All files that you submit (`*.h` and `*.cpp`) should contain the following comme
 
 **Milestone #3** can be submitted after August 3 until August 13, with a penalty of 10% for each day late. After August 13 2024, the submission process is considered closed.
 
-- submissions received on Aug  3 2023 can receive **max 90%**;
-- submissions received on Aug  4 2023 can receive **max 80%**;
-- submissions received on Aug  5 2023 can receive **max 70%**;
-- submissions received on Aug  6 2023 can receive **max 60%**;
-- submissions received on Aug  7 2023 can receive **max 50%**;
-- submissions received on Aug  8 2023 can receive **max 40%**;
-- submissions received on Aug  9 2023 can receive **max 30%**;
-- submissions received on Aug 10 2023 can receive **max 20%**;
-- submissions received on Aug 11 2023 can receive **max 10%**;
-- submissions received on Aug 12 2023 can receive **max  0%**;
+- submissions received on Aug  4 2023 can receive **max 90%**;
+- submissions received on Aug  5 2023 can receive **max 80%**;
+- submissions received on Aug  6 2023 can receive **max 70%**;
+- submissions received on Aug  7 2023 can receive **max 60%**;
+- submissions received on Aug  8 2023 can receive **max 50%**;
+- submissions received on Aug  9 2023 can receive **max 40%**;
+- submissions received on Aug 10 2023 can receive **max 30%**;
+- submissions received on Aug 11 2023 can receive **max 20%**;
+- submissions received on Aug 12 2023 can receive **max 10%**;
+- submissions received on Aug 13 2023 can receive **max  0%**;
 
 **Submission of a working copy of this project is mandatory!** Students who don't submit a complete working project, cannot pass this course. A project is considered complete if all three milestones have been submitted before submission closes and the implementation follows the requirements.  The late submission penalty applied to the project mark will take into consideration the date when the project becomes complete.
 
